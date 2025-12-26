@@ -1,8 +1,8 @@
 # Amazon UI Clone (React)
 
 ## 👤 Student Details
-- **Name:** Kapil Sharma  
-- **UID:** 23BCS10351  
+- **Name:** Tanmay Kumar
+- **UID:** 23BCS12659 
 
 ---
 
